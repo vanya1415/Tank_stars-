@@ -1,2 +1,1 @@
-TANK STARS GAME 🎯
-LOTS OF fun xd
+TANK STARS GAME built using LibGDX.
